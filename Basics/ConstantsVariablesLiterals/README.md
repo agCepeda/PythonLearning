@@ -4,7 +4,7 @@ In this "lesson" will show how to declare and handle variables, constants and li
 What is the difference between them? I will explain that.
 
 The constants are inmutables references that always has the same value which was assigned in its declaration.
-Variables are mutable references that can change the its value through the execution of the program.
+Variables are mutable references that can change its value through the execution of the program.
 Literals are values written directly in the code.
 
 ## Variables
@@ -82,6 +82,6 @@ WATER_BOILING_POINT = "50 C"
 print(WATER_BOILING_POINT)
 ```
 
-Literals
+## Literals
 
 We don't have a lot to explain about this type of declaration. Just is write the value of something directly in the code.
